@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-29",
+  "categories": {
+    "general_tech": {
+      "name": "General Tech",
+      "emoji": "🖥️",
+      "summary": "⚠️ Failed to generate summary for General Tech",
+      "article_count": 92,
+      "tweet_count": 13
+    },
+    "ios_dev": {
+      "name": "iOS Development",
+      "emoji": "🍎",
+      "summary": "⚠️ Failed to generate summary for iOS Development",
+      "article_count": 74,
+      "tweet_count": 3
+    },
+    "android_dev": {
+      "name": "Android Development",
+      "emoji": "🤖",
+      "summary": "⚠️ Failed to generate summary for Android Development",
+      "article_count": 77,
+      "tweet_count": 0
+    },
+    "ai_tools": {
+      "name": "AI Tools",
+      "emoji": "🧠",
+      "summary": "⚠️ Failed to generate summary for AI Tools",
+      "article_count": 140,
+      "tweet_count": 0
+    }
+  }
+}

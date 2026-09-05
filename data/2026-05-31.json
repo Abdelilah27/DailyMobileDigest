@@ -1,0 +1,26 @@
+{
+  "date": "2026-05-31",
+  "categories": {
+    "general_tech": {
+      "name": "General Tech",
+      "emoji": "🖥️",
+      "summary": "📰 Top Stories:\n• Apple delays AI smart glasses to late 2027, with Vision Air slated by 2029 — 9to5Mac\n  https://9to5mac.com/2026/05/31/apple-glasses-launching-late-2027-with-vision-air-to-follow-by-2029/\n• New Apple TV 4K, HomePod mini set for this fall alongside next-gen Siri in iOS 27 — 9to5Mac\n  https://9to5mac.com/2026/05/31/new-apple-tv-and-homepod-mini-launching-this-fall-apple-intelligence/\n• Galaxy Z Fold 8 leak shows off its wider form factor next to the 'Ultra' model — 9to5Google\n  https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/\n• Reflecting on Gemini's practical usefulness after Google I/O 2026 — 9to5Google\n  https://9to5google.com/2026/05/31/what-are-you-actually-doing-with-gemini/\n• SoftBank to invest up to €75B building French data centers for 5GW of AI capacity — TechCrunch\n  https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/\n• Debating whether tech CEOs are \"uniquely prone\" to AI psychosis — TechCrunch\n  https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/\n• User-replaceable batteries are making a comeback, driven by EU legislation — The Verge\n  https://www.theverge.com/column/939026/user-replaceable-batteries-eu-european-union-legislation\n\n🔥 Trending on X:\n• 'This is fine' artist KC Green reaches agreement with AI startup Artisan over meme ads — @TechCrunch\n  https://x.com/TechCrunch/status/2061153138841993724\n• A fundamental principle of aeronautical engineering on surface smoothness and drag has been overturned — @WIRED\n  https://x.com/WIRED/status/2061148460414287955\n• Best prepaid phone plans tested: US Mobile, Boost, and Google Fi — @WIRED\n  https://x.com/WIRED/status/2061153260887568768\n\n💡 Key Takeaway:\nA quiet hardware day dominated by Apple's slipping AI roadmap and Samsung foldable leaks, with AI's practical limits and infrastructure buildout as the recurring undercurrent.\n\n🔗 Quick Links:\n1. Apple AI glasses delayed to 2027, Vision Air by 2029 — https://9to5mac.com/2026/05/31/apple-glasses-launching-late-2027-with-vision-air-to-follow-by-2029/\n2. Galaxy Z Fold 8 wider form factor leak — https://9to5google.com/2026/05/30/galaxy-z-fold-8-wide-ultra-leak/\n3. What are you actually doing with Gemini? — https://9to5google.com/2026/05/31/what-are-you-actually-doing-with-gemini/",
+      "article_count": 101,
+      "tweet_count": 15
+    },
+    "android_dev": {
+      "name": "Android Development",
+      "emoji": "🤖",
+      "summary": "No news found for Android Development today.",
+      "article_count": 0,
+      "tweet_count": 0
+    },
+    "ai_tools": {
+      "name": "AI Tools",
+      "emoji": "🧠",
+      "summary": "No news found for AI Tools today.",
+      "article_count": 0,
+      "tweet_count": 0
+    }
+  }
+}

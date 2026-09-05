@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-21",
+  "categories": {
+    "general_tech": {
+      "name": "General Tech",
+      "emoji": "🖥️",
+      "summary": "No news found for General Tech today.",
+      "article_count": 0,
+      "tweet_count": 0
+    },
+    "ios_dev": {
+      "name": "iOS Development",
+      "emoji": "🍎",
+      "summary": "No news found for iOS Development today.",
+      "article_count": 0,
+      "tweet_count": 0
+    },
+    "android_dev": {
+      "name": "Android Development",
+      "emoji": "🤖",
+      "summary": "No news found for Android Development today.",
+      "article_count": 0,
+      "tweet_count": 0
+    },
+    "ai_tools": {
+      "name": "AI Tools",
+      "emoji": "🧠",
+      "summary": "No news found for AI Tools today.",
+      "article_count": 0,
+      "tweet_count": 0
+    }
+  }
+}

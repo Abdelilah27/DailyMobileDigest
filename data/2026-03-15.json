@@ -1,0 +1,33 @@
+{
+  "date": "2026-03-15",
+  "categories": {
+    "general_tech": {
+      "name": "General Tech",
+      "emoji": "🖥️",
+      "summary": "📰 Top Stories:\n• GitHub launches AI-powered code review tool that catches bugs before they ship — GitHub Blog\n  https://github.blog/ai-code-review\n• Rust 2.0 release candidate drops with async improvements and better error messages — Ars Technica\n  https://arstechnica.com/rust-2-rc\n• Docker Desktop 5.0 brings native ARM support for M-series Macs — TechCrunch\n  https://techcrunch.com/docker-5\n• VS Code March update introduces inline AI chat and new terminal features — The Verge\n  https://theverge.com/vscode-march\n• PostgreSQL 18 beta released with massive JSON query improvements — Lobsters\n  https://lobste.rs/postgresql-18\n\n🔥 Trending on X:\n• Microsoft announces TypeScript 6.0 with native bundling — @TechCrunch\n  https://x.com/TechCrunch/status/123\n• New open-source alternative to Figma gains 5k stars overnight — @benthompson\n  https://x.com/benthompson/status/456\n\n💡 Key Takeaway:\nA big week for developer tooling with major releases from GitHub, Docker, and the Rust team signaling a maturing ecosystem.\n\n🔗 Quick Links:\n1. GitHub AI Code Review — https://github.blog/ai-code-review\n2. Rust 2.0 RC — https://rust-lang.org/2.0-rc\n3. PostgreSQL 18 Beta — https://postgresql.org/18-beta",
+      "article_count": 47,
+      "tweet_count": 15
+    },
+    "ios_dev": {
+      "name": "iOS Development",
+      "emoji": "🍎",
+      "summary": "📰 Top Stories:\n• Xcode 17.3 beta adds AI-assisted debugging and live preview improvements — Apple Developer News\n  https://developer.apple.com/xcode-17.3\n• SwiftUI gains new animation APIs with spring-based interpolation — Swift by Sundell\n  https://swiftbysundell.com/animation-apis\n• New Swift evolution proposal brings typed throws to the language — Swift.org\n  https://swift.org/typed-throws\n• Apple releases visionOS 3.1 SDK with spatial computing improvements — Hacking with Swift\n  https://hackingwithswift.com/visionos-3.1\n\n🔥 Trending on X:\n• WWDC 2026 dates confirmed for June 8-12 — @SwiftLang\n  https://x.com/SwiftLang/status/789\n• New SwiftUI navigation library simplifies deep linking — @mecid\n  https://x.com/mecid/status/101\n\n💡 Key Takeaway:\nApple is doubling down on developer experience with major Xcode improvements and SwiftUI gaining the animation flexibility developers have been asking for.\n\n🔗 Quick Links:\n1. Xcode 17.3 Beta — https://developer.apple.com/xcode-17.3\n2. SwiftUI Animations — https://swiftbysundell.com/animation-apis\n3. visionOS 3.1 SDK — https://developer.apple.com/visionos",
+      "article_count": 38,
+      "tweet_count": 12
+    },
+    "android_dev": {
+      "name": "Android Development",
+      "emoji": "🤖",
+      "summary": "📰 Top Stories:\n• Android 17 Developer Preview 2 reveals new permission model and adaptive layouts — Android Developers Blog\n  https://android-developers.googleblog.com/dp2\n• Jetpack Compose 2.0 announced with rewritten composition engine for 40% faster rendering — Google I/O Preview\n  https://developer.android.com/compose-2\n• Kotlin 2.2 enters beta with context receivers stabilized — JetBrains Blog\n  https://blog.jetbrains.com/kotlin-2.2\n• Material Design 4 guidelines published with dynamic theming improvements — Material.io\n  https://material.io/design-4\n\n🔥 Trending on X:\n• Google previews Gemini Nano integration in Android Studio — @AndroidDev\n  https://x.com/AndroidDev/status/202\n• KMP reaches 1.0 stable for shared business logic across platforms — @JakeWharton\n  https://x.com/JakeWharton/status/303\n\n💡 Key Takeaway:\nCompose 2.0 is the headline — a ground-up performance rewrite that addresses the community's biggest complaints about jank and recomposition overhead.\n\n🔗 Quick Links:\n1. Compose 2.0 — https://developer.android.com/compose-2\n2. Kotlin 2.2 Beta — https://blog.jetbrains.com/kotlin-2.2\n3. Material Design 4 — https://material.io/design-4",
+      "article_count": 31,
+      "tweet_count": 9
+    },
+    "ai_tools": {
+      "name": "AI Tools",
+      "emoji": "🧠",
+      "summary": "📰 Top Stories:\n• Claude 4.5 Opus released with 1M context window and improved reasoning — Anthropic Blog\n  https://anthropic.com/claude-4.5\n• OpenAI launches GPT-5 Turbo with 2x faster inference at 60% lower cost — OpenAI Blog\n  https://openai.com/gpt5-turbo\n• LangChain v0.5 adds native streaming and async-first architecture — LangChain Blog\n  https://blog.langchain.dev/v0.5\n• Hugging Face releases SmolLM-3B that runs entirely on-device — Hugging Face Blog\n  https://huggingface.co/blog/smollm-3b\n• Local LLM benchmark shows Llama 4 competing with GPT-4 on reasoning tasks — r/LocalLLaMA\n  https://reddit.com/r/LocalLLaMA/llama4\n\n🔥 Trending on X:\n• Cursor IDE hits 2M users, announces Cursor for Teams — @AnthropicAI\n  https://x.com/AnthropicAI/status/404\n• New AI coding benchmark shows Claude Code outperforming GitHub Copilot on complex tasks — @OpenAI\n  https://x.com/OpenAI/status/505\n\n💡 Key Takeaway:\nThe AI tooling space is heating up with both model improvements and developer tool competition intensifying — local models are closing the gap fast.\n\n🔗 Quick Links:\n1. Claude 4.5 Opus — https://anthropic.com/claude-4.5\n2. GPT-5 Turbo — https://openai.com/gpt5-turbo\n3. SmolLM-3B On-Device — https://huggingface.co/blog/smollm-3b",
+      "article_count": 55,
+      "tweet_count": 20
+    }
+  }
+}
